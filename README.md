@@ -1,2 +1,2 @@
 # Pedal-Box
-All files for Pedal-Box data
+All files for Pedal-Box project
